@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Das</h1>
-<h3 align="center">Full-Stack Developer | GenAI Builder | Problem Solver</h3>
+<h3 align="center">
+Software Engineer | Full-Stack Developer | Generative AI Builder
+</h3>
 
 <p align="center">
   I build production-ready web applications using React, Next.js, Node.js, Express, MongoDB, PostgreSQL, and AI tools.
