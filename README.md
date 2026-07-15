@@ -33,7 +33,7 @@ Software Engineer | Full-Stack Developer | Generative AI Builder
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css,react,nextjs,nodejs,express,graphql,mongodb,postgresql,mysql,redux,tailwind,bootstrap,git,github,docker,postman,vscode,vercel," />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css,react,nextjs,nodejs,express,graphql,drizzleorm,mongodb,postgresql,mysql,redux,tailwind,bootstrap,git,github,docker,postman,vscode,vercel," />
 </p>
 
 ---
