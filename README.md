@@ -9,11 +9,11 @@
 
 ## 🌱 About Me
 
-- 🚀 I build full-stack applications with a focus on clean UI, scalable backend logic, and real-world features
-- 💡 I enjoy turning ideas into products using React, Next.js, Node.js, and databases
-- 🤖 I also work on AI-powered projects like RAG systems, document intelligence, and AI-assisted tools
-- 🧠 I’m actively improving my DSA, SQL, OOP, and software engineering fundamentals
-- 📫 How to reach me: **sohamdas.dev@gmail.com**
+- 🚀 Full-Stack Developer passionate about building scalable web applications and intelligent software solutions.
+- 💻 Experienced in React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and modern web technologies.
+- 🤖 Building AI-powered applications using OpenAI, LangChain, Retrieval-Augmented Generation (RAG), and Vector Databases.
+- 🌐 From responsive frontends to robust backend architectures, I enjoy developing end-to-end products that solve real-world problems.
+- 📫 Reach me at: **sohamdas.dev@gmail.com**
 
 ---
 
@@ -31,7 +31,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css,react,nextjs,nodejs,express,graphql,mongodb,postgresql,mysql,redux,tailwind,bootstrap,git,github,docker,postman,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css,react,nextjs,nodejs,express,graphql,mongodb,postgresql,mysql,redux,tailwind,bootstrap,git,github,docker,postman,vscode,vercel," />
 </p>
 
 ---
