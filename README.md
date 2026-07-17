@@ -24,7 +24,7 @@ Software Engineer | Full-Stack Developer | Generative AI Builder
 <p align="left">
   <a href="mailto:sohamdas.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/soham-das-5a813528a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sohamdas.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="soham-portfolio-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://leetcode.com/u/qZGtk6jsXe/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
@@ -36,7 +36,7 @@ Software Engineer | Full-Stack Developer | Generative AI Builder
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css,react,nextjs,nodejs,express,graphql,mongodb,postgresql,mysql,redux,tailwind,bootstrap,git,github,docker,postman,vscode,vercel," />
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,nextjs,nodejs,express,graphql,mongodb,postgres,mysql,redux,tailwind,bootstrap,git,github,docker,postman,vscode,vercel" />
 </p>
 
 ---
