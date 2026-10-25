@@ -62,14 +62,6 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🏆 **Finalist**, Codigo Hackathon (SREY-2026)
-- 🏅 **HackerRank:** Problem Solving (Intermediate), SQL (Advanced), Java (Basic), Python (Basic)
-- ☁️ **Google Cloud Study Jams 2025–26:** Vertex AI, Cloud Functions, Generative AI APIs
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
