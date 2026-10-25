@@ -37,7 +37,10 @@
 
 **Backend, Databases & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,mongodb,postgres,mysql,redis,docker,aws,linux,git,github,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,mongodb,postgres,mysql,redis,docker,aws,linux,git,github,postman" />
+  <br />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 **AI / ML & Data Science**
